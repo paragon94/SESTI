@@ -1,0 +1,5 @@
+<root>
+    <item name='com.sun.xml.internal.txw2.Document'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
